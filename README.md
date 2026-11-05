@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner: Samuel, desenvolvedor web full stack" />
+</p>
+
 <h1 align="center">Olá, eu sou o Samuel Marques 👋</h1>
 
 <p align="center">

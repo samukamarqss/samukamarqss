@@ -34,9 +34,9 @@ Faço o curso técnico em Informática no IFMS, campus Ponta Porã, e trabalho c
 ## Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/samukamarqss/AmoreiraConstrutoraIntranet"><img width="32%" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraConstrutoraIntranet&theme=tokyonight&hide_border=true" alt="AmoreiraConstrutoraIntranet" /></a>
-  <a href="https://github.com/samukamarqss/AmoreiraHallReadMe-"><img width="32%" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraHallReadMe-&theme=tokyonight&hide_border=true" alt="AmoreiraHallReadMe-" /></a>
-  <a href="https://github.com/samukamarqss/Preview-Markdown"><img width="32%" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=Preview-Markdown&theme=tokyonight&hide_border=true" alt="Preview-Markdown" /></a>
+  <a href="https://github.com/samukamarqss/AmoreiraConstrutoraIntranet"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraConstrutoraIntranet&theme=tokyonight&hide_border=true" alt="AmoreiraConstrutoraIntranet" /></a>
+  <a href="https://github.com/samukamarqss/AmoreiraHallReadMe-"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraHallReadMe-&theme=tokyonight&hide_border=true" alt="AmoreiraHallReadMe-" /></a>
+  <a href="https://github.com/samukamarqss/Preview-Markdown"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=Preview-Markdown&theme=tokyonight&hide_border=true" alt="Preview-Markdown" /></a>
 </p>
 
 ## Estatísticas no GitHub

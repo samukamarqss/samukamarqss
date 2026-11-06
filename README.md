@@ -28,7 +28,19 @@ Faço o curso técnico em Informática no IFMS, campus Ponta Porã, e trabalho c
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Projeto em destaque
+## Projetos em destaque
+
+<a href="https://github.com/samukamarqss/AmoreiraConstrutoraIntranet">
+  <img src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraConstrutoraIntranet&theme=tokyonight&hide_border=true" alt="AmoreiraConstrutoraIntranet" />
+</a>
+
+Intranet em produção na construtora onde trabalho, usada pelo pessoal da matriz e das obras. Reúne comunicados, reuniões, documentos, contatos e atalhos dos sistemas da empresa em um único site. Quem não tem e-mail corporativo entra com matrícula e PIN. Feita com Next.js, TypeScript e Supabase. O código é privado, e o repositório traz a explicação do projeto.
+
+<a href="https://github.com/samukamarqss/AmoreiraHallReadMe-">
+  <img src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraHallReadMe-&theme=tokyonight&hide_border=true" alt="AmoreiraHallReadMe-" />
+</a>
+
+Sistema de gestão de eventos e financeiro em produção no Amoreira Hall, o espaço de eventos do Grupo Amoreira. Substituiu planilhas separadas e reúne clientes, agenda, recebimentos, despesas, fluxo de caixa e relatórios. Feito com Next.js, React, TypeScript, Supabase e PostgreSQL. O código é privado, e o repositório traz a explicação do projeto.
 
 <a href="https://github.com/samukamarqss/Preview-Markdown">
   <img src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=Preview-Markdown&theme=tokyonight&hide_border=true" alt="Preview-Markdown" />

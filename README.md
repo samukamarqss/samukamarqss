@@ -31,11 +31,9 @@ Faço o curso técnico em Informática no IFMS, campus Ponta Porã, e trabalho c
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Projetos em destaque
+## Projeto em destaque
 
 <p align="center">
-  <a href="https://github.com/samukamarqss/AmoreiraConstrutoraIntranet"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraConstrutoraIntranet&theme=tokyonight&hide_border=true" alt="AmoreiraConstrutoraIntranet" /></a>
-  <a href="https://github.com/samukamarqss/AmoreiraHallReadMe-"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=AmoreiraHallReadMe-&theme=tokyonight&hide_border=true" alt="AmoreiraHallReadMe-" /></a>
   <a href="https://github.com/samukamarqss/Preview-Markdown"><img width="32%" align="top" src="https://github-readme-stats-lilac-psi-78.vercel.app/api/pin/?username=samukamarqss&repo=Preview-Markdown&theme=tokyonight&hide_border=true" alt="Preview-Markdown" /></a>
 </p>
 
